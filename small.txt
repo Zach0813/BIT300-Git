@@ -1,1 +1,1 @@
-This is a small txt.
+This is a small text file.
